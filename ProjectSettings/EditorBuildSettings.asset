@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Map2.unity
+    guid: 3233fb626f38373468666a1fa1295589
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8efb759f00417f84f885165daee9cb30
+  - enabled: 1
+    path: Assets/Scenes/HelpScene.unity
+    guid: c673ac302f1d097428dbeab068c32ccd
+  - enabled: 1
+    path: Assets/Scenes/WinnerScene.unity
+    guid: 266a7c6d1fa0af3488649c2f8b55a900
+  - enabled: 1
+    path: Assets/Scenes/LoserScene.unity
+    guid: c9262210a47487f40a836cb76177bf1b
+  m_configObjects: {}
