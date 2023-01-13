@@ -1,0 +1,105 @@
+[사운드 에셋] 
+
+1.
+이름 : Phoenix Combat Sound Mod (PCSM) v2 Version: PCSM v2.1.1 
+제작자 : FenixAIfa
+링크 : https://live.warthunder.com/post/1032681/en/
+
+2. 
+이름 : War Thunder - Complete Sound Track
+제작자 : IGN: LaPlus_Darknesss
+링크 : https://www.reddit.com/r/Warthunder/comments/khzoc3/war_thunder_complete_sound_track/
+
+[건물, 도로 에셋]
+
+1.
+이름 : Building Apartment
+제작자 : LowlyPoly
+링크 : https://assetstore.unity.com/packages/3d/environments/building-apartment-80004
+
+2.
+이름 : Simple Urban Buildings Pack 1
+제작자 : Rune Studios
+링크 : https://assetstore.unity.com/packages/3d/environments/urban/simple-urban-buildings-pack-1-33563
+
+3. 
+이름 : Town Houses Pack
+제작자 : ChermandirKun
+링크 : https://assetstore.unity.com/packages/3d/environments/urban/town-houses-pack-42717
+
+4.
+이름 : Russian buildings pack
+제작자 : MadMedicSoft
+링크 : https://assetstore.unity.com/packages/3d/environments/urban/russian-buildings-pack-113375
+
+5.
+이름 : Low Poly Brick Houses
+제작자 : Broken Vector
+링크 : https://assetstore.unity.com/packages/3d/props/exterior/low-poly-brick-houses-131899
+
+6.
+이름 : Low poly European City Pack
+제작자 : karboosx
+링크 : https://assetstore.unity.com/packages/3d/environments/urban/low-poly-european-city-pack-71042
+
+7.
+이름 : Low Poly Road Pack
+제작자 : Broken Vector
+링크 : https://assetstore.unity.com/packages/3d/environments/roadways/low-poly-road-pack-67288
+
+[카메라 에셋]
+
+1. 
+이름 : Starter Assets - Third Person Character Controller
+제작자 : Unity Technologies
+링크 : https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
+
+[파티클 에셋]
+
+1.
+이름 : Unity Particle Pack
+제작자 : Unity Technologies
+링크 : https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
+
+[탱크, 탄약 에셋]
+
+1.
+이름 : Ammu Pack
+제작자 : MyNameIsVoo
+링크 : https://assetstore.unity.com/packages/3d/props/weapons/ammu-pack-67810
+
+2.
+이름 : WW2 Armed Forces Demo
+제작자 : JonahH
+링크 : https://assetstore.unity.com/packages/3d/vehicles/land/ww2-armed-forces-demo-184465
+
+[3D 글자 에셋]
+
+1.
+이름 : Simple Helvetica
+제작자 : Studio Pepwuper
+링크 : https://assetstore.unity.com/packages/tools/gui/simple-helvetica-2925
+
+[소스 코드]
+
+1.
+이름 : GunTurrets2
+제작자 : Brian Hernandez
+링크 : https://github.com/brihernandez/GunTurrets2
+
+[폰트 에셋]
+
+1.
+이름 : 넥슨 Lv.2 고딕
+제작자 : 넥슨
+링크 : http://levelup.nexon.com/font/index.aspx?page=2
+
+
+
+
+
+
+
+
+
+
